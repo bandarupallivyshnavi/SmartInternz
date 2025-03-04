@@ -1,0 +1,11 @@
+eye-disease-classification/
+│── static/
+│   ├── uploads/            # Folder to store uploaded images
+│   ├── css/
+│   │   ├── styles.css      # Improved CSS file
+│── templates/
+│   ├── index.html          # Upload page
+│   ├── result.html         # Result display page
+│── app.py                  # Flask application
+│── train.py                # Model training script
+│── requirements.txt        # Dependencies
